@@ -7,3 +7,6 @@ ramp-workflow
 seaborn
 geopandas
 folium
+descartes
+shapely
+plotly
