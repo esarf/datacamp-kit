@@ -1,6 +1,7 @@
 numpy
 matplotlib
 sklearn
+xgboost
 pandas
 jupyter
 ramp-workflow
