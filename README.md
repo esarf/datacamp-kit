@@ -1,7 +1,7 @@
 # Rents prices in Paris, 2019
 
 
-DataCamp Course $-$ M2 Data Science, 2020-2021  
+DataCamp Course -- M2 Data Science, 2020-2021  
 **Authors** : Selma Bouchta, Ryan Boustany, Paul Couairon, Loïc Jourdan, Emma Sarfati  
 **Teachers** : Alexandre Gramfort (INRIA), Thomas Moreau (INRIA)  
 
