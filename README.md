@@ -5,7 +5,7 @@ DataCamp Course ⎜ M2 Data Science, 2020-2021
 **Authors** : Selma Bouchta, Ryan Boustany, Paul Couairon, Loïc Jourdan, Emma Sarfati  
 **Teachers** : Alexandre Gramfort (*INRIA*), Thomas Moreau (*INRIA*)  
 
-In this challenge we aimed to predict the rent amount in Paris thanks to diverse data such as schools, crimes or event. The notebook containing the description of the data and the challenge is available [here](https://github.com/esarf/datacamp-loyers/blob/main/starting_kit.ipynb).
+In this challenge we aimed to predict the rents values in Paris thanks to diverse data such as schools, crimes or event. The notebook containing the description of the data and the challenge is available [here](https://github.com/esarf/datacamp-loyers/blob/main/starting_kit.ipynb).
 
 ## Installation 
  - install `ramp-workflow` library 
