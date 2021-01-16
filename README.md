@@ -13,10 +13,10 @@ In this challenge we aimed to predict the rents values in Paris thanks to divers
  
 ## Testing the predictions locally  
 
- Once in the good folder, run:  
+ Once in the good folder, run :  
   `ramp-test --submission = starting_kit`
   
- Or for a quicker test, run:  
+ Or for a quicker test, run :  
  `ramp-test --submission = starting_kit --quick-test `
 
 Eventually, the notebook might not display correctly due to its size and the interactive plots we put in it. Then to see it properly, you can either run it locally, or follow these steps :  
