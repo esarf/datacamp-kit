@@ -1,4 +1,4 @@
-# Rents prices in Paris, 2019
+# Rent prices in Paris, 2019
 
 
 DataCamp Course ⎜ M2 Data Science, 2020-2021  
