@@ -6,7 +6,7 @@ Installation:
  - install `ramp-workflow` library 
  - `$ pip install git+https://github.com/LoicJOURDAN/DataCamp.git`
  
- Testing the predictions locally:  
+ Testing the predictions locally:
  Once in the good folder run:
   `ramp-test --submission = starting_kit`
   
