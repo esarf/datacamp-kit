@@ -9,7 +9,7 @@ In this challenge we aimed to predict the rent amount in Paris thanks to diverse
 
 Installation: 
  - install `ramp-workflow` library 
- - `$ pip install git+https://github.com/LoicJOURDAN/DataCamp.git`
+ - `$ pip install git+https://github.com/esarf/datacamp-loyers.git`
  
  Testing the predictions locally:  
  Once in the good folder run:
@@ -19,7 +19,7 @@ Installation:
  
 `ramp-test --submission = starting_kit --quick-test `
 
-Eventually, the notebook might not display correctly due to its size and the interactive plots we put in it. Then to see it properly, do :  
+Eventually, the notebook might not display correctly due to its size and the interactive plots we put in it. Then to see it properly, you can either git clone the repo and run it locally, or do :  
 - go to https://nbviewer.jupyter.org  
 - copy paste the link you have to the `starting-kit.ipynb` on the webpage  
 - enjoy!
