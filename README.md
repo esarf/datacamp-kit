@@ -7,11 +7,11 @@ DataCamp Course ⎜ M2 Data Science, 2020-2021
 
 In this challenge we aimed to predict the rent amount in Paris thanks to diverse data such as schools, crimes or event thdata and the challenge is available [here](https://github.com/esarf/datacamp-loyers/blob/main/starting_kit.ipynb).
 
-## Installation: 
+## Installation 
  - install `ramp-workflow` library 
  - run `$ pip install git+https://github.com/esarf/datacamp-loyers.git`
  
-## Testing the predictions locally:  
+## Testing the predictions locally  
 
  Once in the good folder, run:  
   `ramp-test --submission = starting_kit`
@@ -24,5 +24,5 @@ Eventually, the notebook might not display correctly due to its size and the int
 - copy paste the link you have to the `starting-kit.ipynb` on the webpage  
 - enjoy!
 
-## Further help : 
+## Further help
 Go to the ramp-workflow [wiki](https://github.com/paris-saclay-cds/ramp-workflow/wiki) for more help on the [RAMP](https://ramp.studio) ecosystem.
