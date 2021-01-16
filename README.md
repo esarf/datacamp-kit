@@ -6,10 +6,15 @@ Installation:
  - install `ramp-workflow` library 
  - `$ pip install git+https://github.com/LoicJOURDAN/DataCamp.git`
  
- Testing the predictions locally:
+ Testing the predictions locally:  
  Once in the good folder run:
   `ramp-test --submission = starting_kit`
   
  For a quicker test:
  
 `ramp-test --submission = starting_kit --quick-test `
+
+Eventually, the notebook might not display correctly due to its size and the interactive plots we put in it. Then to see it properly, do :  
+- go to https://nbviewer.jupyter.org  
+- copy paste the link you have to the `starting-kit.ipynb` on the webpage  
+- enjoy!
