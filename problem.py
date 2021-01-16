@@ -20,7 +20,7 @@ if(quick_mode):
     _train = 'train_small.csv'
     _test = 'test_small.csv'
 
-problem_title = 'Rents amounts in Paris'
+problem_title = 'Rents prices in Paris'
 _target_column_names = ['ref']
 
 # A type (class) which will be used to create wrapper objects for y_pred
