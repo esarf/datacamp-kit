@@ -39,7 +39,7 @@ class RMSE(BaseScoreType):
         self.precision = precision
 
     def __call__(self, y_true, y_pred):
-        return mean_squared_error(y_true, y_pred)
+        return np.sqrt(mean_squared_error(y_true, y_pred))
 
 score_types = [
     RMSE()
